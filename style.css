@@ -1,0 +1,55 @@
+h1{
+    background-color: rgb(154, 178, 215);
+   border-radius: 50px;
+    border-color: red;
+    border-inline-color: red;
+    text-align: center;
+}
+th{
+    
+    border-collapse: collapse ;
+    border: 1px solid;
+    background-color: green;
+}
+
+.h{
+    color: red;
+}
+.qizil{
+    color: red;
+}
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+table{
+    border-collapse: collapse ;
+    border: 1px solid;
+}
+thead{
+    border-collapse: collapse ;
+    border: 1px solid;
+}
+tbody{
+    border-collapse: collapse ;
+    border: 1px solid  color white;
+    
+}
+td{
+    border-collapse: collapse ;
+    border: 1px solid;
+    background-color: blueviolet;
+}
+.greens{
+    background-color: green;
+}
+h3{
+    background-color: yellow;
+    text-align: center;
+}
+button{
+    background-color: green;
+    width:150px;
+}
